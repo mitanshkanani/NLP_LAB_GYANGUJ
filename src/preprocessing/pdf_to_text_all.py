@@ -137,7 +137,7 @@ for class_folder in ["class11", "class12"]:
                 
                 # Save extracted text
                 with open(txt_path, "w", encoding="utf-8") as f:
-                    f.write(text)
+                    f.wwrite(text)
 
                 print(f"✅ Extracted: {pdf_file} → {txt_file_name}")
                 print(f"   Extracted {len(text)} characters")

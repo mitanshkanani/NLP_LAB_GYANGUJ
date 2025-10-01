@@ -1,7 +1,8 @@
 
 N-GRAM ANALYSIS REPORT
 =======================
-Dataset Folder: X:\DJ Sanghvi\sem 7\nlp\NLP_LAB_GYANGUJ\data\processed
+Dataset Folder: c:\Users\Mitansh Kanani\Desktop\college\sem 7\NLP\NLP_LAB_GYANGUJ\data\processed
+Analysis Date: 2025-10-01 14:33:55
 
 ==================== UNIGRAM ANALYSIS ====================
 Total words (tokens): 867503
@@ -179,4 +180,4 @@ Rank  Trigram                                  Count      Probability (%)
 48    છે અને આ                                 88         0.0101%
 49    3 4 5                                    85         0.0098%
 50    છે કારણ કે                               83         0.0096%
-        
+    
